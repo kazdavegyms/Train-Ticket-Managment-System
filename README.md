@@ -2,6 +2,8 @@
 ## Train Ticket Management
 ###IMPORTANT
 create your own project using following commands. 
+## Follow thosee 
+## Follow those methodes 
 'npx create-react-app my-app'
 'cd my-app'
 'npm start'
